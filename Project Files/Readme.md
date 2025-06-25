@@ -1,1 +1,1 @@
-This folder contains the project files or Source code of the DocSpot-App
+This Project Files contains the Source code of the DocSpot-App
