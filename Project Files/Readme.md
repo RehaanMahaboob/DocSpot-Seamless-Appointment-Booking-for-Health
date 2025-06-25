@@ -21,7 +21,6 @@ your-app/
 │ ├── package.json
 │
 └── README.md # This documentation
--
 
 ## 🛠 Technologies Used
 
