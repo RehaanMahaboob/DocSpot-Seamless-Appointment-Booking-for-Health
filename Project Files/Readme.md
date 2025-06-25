@@ -6,7 +6,7 @@ A full-stack doctor appointment platform with user registration, doctor applicat
 ---
 
 ## 📁 Project Structure
-
+```
 your-app/
 │
 ├── backend/ # Node.js + Express + MongoDB server
@@ -21,6 +21,7 @@ your-app/
 │ ├── package.json
 │
 └── README.md # This documentation
+```
 
 ## 🛠 Technologies Used
 
